@@ -1,0 +1,6 @@
+include README.md
+
+graft sd_django_utils
+
+global-exclude __pycache__
+global-exclude *.py[co]
